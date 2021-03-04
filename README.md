@@ -1,3 +1,3 @@
 # Batatabitproyect
-visit for view the project
+visit:
 https://danielgalaning.github.io/Batatabitproject/
